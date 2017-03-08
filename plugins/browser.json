@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.wasu.mib1"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "599217111322",
+            "PACKAGE_NAME": "com.wasu.mib1"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.wasu.mib1"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.wasu.mib1"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.wasu.mib1"
+        }
+    },
+    "dependent_plugins": {}
+}
